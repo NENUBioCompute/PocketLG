@@ -1,0 +1,927 @@
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+sphere_mange_arete: inconcistence
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+sphere_mange_arete: inconcistence
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Traceback (most recent call last):
+  File "data_preprocessing.py", line 161, in <module>
+    a.start_processing()
+  File "data_preprocessing.py", line 141, in start_processing
+    preprocessed_data = self.SiteInfo_Process()
+  File "data_preprocessing.py", line 44, in SiteInfo_Process
+    site_info = Site_info(self.PDBInfo_Process(), self.file_path)
+  File "data_preprocessing.py", line 40, in PDBInfo_Process
+    res_info = PDBInfo(self.file_path, MSMS='msms')
+  File "/root/ServerTest/integration_pipline/PDB_info.py", line 47, in __init__
+    self.site_info = self.get_site(file)
+  File "/root/ServerTest/integration_pipline/PDB_info.py", line 59, in get_site
+    res_list = Bio.PDB.Selection.unfold_entities(self.structure[0][res_info['chainID']], 'R')
+  File "/root/miniconda3/envs/test/lib/python3.6/site-packages/Bio/PDB/Entity.py", line 45, in __getitem__
+    return self.child_dict[id]
+KeyError: ''
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+Traceback (most recent call last):
+  File "data_preprocessing.py", line 161, in <module>
+    a.start_processing()
+  File "data_preprocessing.py", line 141, in start_processing
+    preprocessed_data = self.SiteInfo_Process()
+  File "data_preprocessing.py", line 45, in SiteInfo_Process
+    dataset = site_info.get_dataset(25, 5.5, 10)
+  File "/root/ServerTest/integration_pipline/site_info.py", line 318, in get_dataset
+    negative_set = self.get_negative_set(num, max_depth, max_numres)
+  File "/root/ServerTest/integration_pipline/site_info.py", line 291, in get_negative_set
+    site_res_list = self._get_close_res(center_res_ca_coord, num, max_depth, center_res_ca_depth, res_list)
+  File "/root/ServerTest/integration_pipline/site_info.py", line 217, in _get_close_res
+    dis = self.get_distance(center_coord, res.xtra['ca_coord'])
+  File "/root/ServerTest/integration_pipline/site_info.py", line 326, in get_distance
+    diff = coord1 - coord2
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+srdf: un sommet est faux
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+sphere_mange_arete: inconcistence
+sphere_mange_arete: inconcistence
+sphere_mange_arete: inconcistence
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+srdf: un sommet est faux
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+srdf: un sommet est faux
+sphere_mange_arete: inconcistence
+srdf: un sommet est faux
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Traceback (most recent call last):
+  File "data_preprocessing.py", line 161, in <module>
+    a.start_processing()
+  File "data_preprocessing.py", line 141, in start_processing
+    preprocessed_data = self.SiteInfo_Process()
+  File "data_preprocessing.py", line 44, in SiteInfo_Process
+    site_info = Site_info(self.PDBInfo_Process(), self.file_path)
+  File "data_preprocessing.py", line 40, in PDBInfo_Process
+    res_info = PDBInfo(self.file_path, MSMS='msms')
+  File "/root/ServerTest/integration_pipline/PDB_info.py", line 47, in __init__
+    self.site_info = self.get_site(file)
+  File "/root/ServerTest/integration_pipline/PDB_info.py", line 53, in get_site
+    dic = ps.parse(file)
+  File "/root/ServerTest/integration_pipline/PDB/PDBparser/ParserStructure.py", line 26, in parse
+    pdblist = pb.parser(file, target="ALL")
+  File "/root/ServerTest/integration_pipline/PDB/PDBparser/ParserBase.py", line 47, in parser
+    content = self._parser_txt_based(file, target)
+  File "/root/ServerTest/integration_pipline/PDB/PDBparser/ParserBase.py", line 65, in _parser_txt_based
+    for field, content in self._parser_line(line, target).items():
+  File "/root/ServerTest/integration_pipline/PDB/PDBparser/ParserBase.py", line 99, in _parser_line
+    value = datatype(line[start[0]-1:end[0]].strip())
+ValueError: invalid literal for int() with base 10: '1BAC'
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+sphere_mange_arete: inconcistence
+sphere_mange_arete: inconcistence
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+sphere_mange_arete: inconcistence
+sphere_mange_arete: inconcistence
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+sphere_mange_arete: inconcistence
+sphere_mange_arete: inconcistence
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+sphere_mange_arete: inconcistence
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Traceback (most recent call last):
+  File "data_preprocessing.py", line 161, in <module>
+    a.start_processing()
+  File "data_preprocessing.py", line 141, in start_processing
+    preprocessed_data = self.SiteInfo_Process()
+  File "data_preprocessing.py", line 44, in SiteInfo_Process
+    site_info = Site_info(self.PDBInfo_Process(), self.file_path)
+  File "data_preprocessing.py", line 40, in PDBInfo_Process
+    res_info = PDBInfo(self.file_path, MSMS='msms')
+  File "/root/ServerTest/integration_pipline/PDB_info.py", line 47, in __init__
+    self.site_info = self.get_site(file)
+  File "/root/ServerTest/integration_pipline/PDB_info.py", line 53, in get_site
+    dic = ps.parse(file)
+  File "/root/ServerTest/integration_pipline/PDB/PDBparser/ParserStructure.py", line 26, in parse
+    pdblist = pb.parser(file, target="ALL")
+  File "/root/ServerTest/integration_pipline/PDB/PDBparser/ParserBase.py", line 47, in parser
+    content = self._parser_txt_based(file, target)
+  File "/root/ServerTest/integration_pipline/PDB/PDBparser/ParserBase.py", line 65, in _parser_txt_based
+    for field, content in self._parser_line(line, target).items():
+  File "/root/ServerTest/integration_pipline/PDB/PDBparser/ParserBase.py", line 99, in _parser_line
+    value = datatype(line[start[0]-1:end[0]].strip())
+ValueError: invalid literal for int() with base 10: '1BHA'
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+sphere_mange_arete: inconcistence
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Traceback (most recent call last):
+  File "data_preprocessing.py", line 161, in <module>
+    a.start_processing()
+  File "data_preprocessing.py", line 141, in start_processing
+    preprocessed_data = self.SiteInfo_Process()
+  File "data_preprocessing.py", line 44, in SiteInfo_Process
+    site_info = Site_info(self.PDBInfo_Process(), self.file_path)
+  File "data_preprocessing.py", line 40, in PDBInfo_Process
+    res_info = PDBInfo(self.file_path, MSMS='msms')
+  File "/root/ServerTest/integration_pipline/PDB_info.py", line 47, in __init__
+    self.site_info = self.get_site(file)
+  File "/root/ServerTest/integration_pipline/PDB_info.py", line 53, in get_site
+    dic = ps.parse(file)
+  File "/root/ServerTest/integration_pipline/PDB/PDBparser/ParserStructure.py", line 26, in parse
+    pdblist = pb.parser(file, target="ALL")
+  File "/root/ServerTest/integration_pipline/PDB/PDBparser/ParserBase.py", line 47, in parser
+    content = self._parser_txt_based(file, target)
+  File "/root/ServerTest/integration_pipline/PDB/PDBparser/ParserBase.py", line 65, in _parser_txt_based
+    for field, content in self._parser_line(line, target).items():
+  File "/root/ServerTest/integration_pipline/PDB/PDBparser/ParserBase.py", line 99, in _parser_line
+    value = datatype(line[start[0]-1:end[0]].strip())
+ValueError: invalid literal for int() with base 10: '1BCT'
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+sphere_mange_arete: inconcistence
+sphere_mange_arete: inconcistence
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Traceback (most recent call last):
+  File "data_preprocessing.py", line 161, in <module>
+    a.start_processing()
+  File "data_preprocessing.py", line 141, in start_processing
+    preprocessed_data = self.SiteInfo_Process()
+  File "data_preprocessing.py", line 44, in SiteInfo_Process
+    site_info = Site_info(self.PDBInfo_Process(), self.file_path)
+  File "data_preprocessing.py", line 40, in PDBInfo_Process
+    res_info = PDBInfo(self.file_path, MSMS='msms')
+  File "/root/ServerTest/integration_pipline/PDB_info.py", line 47, in __init__
+    self.site_info = self.get_site(file)
+  File "/root/ServerTest/integration_pipline/PDB_info.py", line 53, in get_site
+    dic = ps.parse(file)
+  File "/root/ServerTest/integration_pipline/PDB/PDBparser/ParserStructure.py", line 26, in parse
+    pdblist = pb.parser(file, target="ALL")
+  File "/root/ServerTest/integration_pipline/PDB/PDBparser/ParserBase.py", line 47, in parser
+    content = self._parser_txt_based(file, target)
+  File "/root/ServerTest/integration_pipline/PDB/PDBparser/ParserBase.py", line 65, in _parser_txt_based
+    for field, content in self._parser_line(line, target).items():
+  File "/root/ServerTest/integration_pipline/PDB/PDBparser/ParserBase.py", line 99, in _parser_line
+    value = datatype(line[start[0]-1:end[0]].strip())
+ValueError: invalid literal for int() with base 10: '1BAD'
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Traceback (most recent call last):
+  File "data_preprocessing.py", line 161, in <module>
+    a.start_processing()
+  File "data_preprocessing.py", line 141, in start_processing
+    preprocessed_data = self.SiteInfo_Process()
+  File "data_preprocessing.py", line 44, in SiteInfo_Process
+    site_info = Site_info(self.PDBInfo_Process(), self.file_path)
+  File "data_preprocessing.py", line 40, in PDBInfo_Process
+    res_info = PDBInfo(self.file_path, MSMS='msms')
+  File "/root/ServerTest/integration_pipline/PDB_info.py", line 47, in __init__
+    self.site_info = self.get_site(file)
+  File "/root/ServerTest/integration_pipline/PDB_info.py", line 53, in get_site
+    dic = ps.parse(file)
+  File "/root/ServerTest/integration_pipline/PDB/PDBparser/ParserStructure.py", line 26, in parse
+    pdblist = pb.parser(file, target="ALL")
+  File "/root/ServerTest/integration_pipline/PDB/PDBparser/ParserBase.py", line 47, in parser
+    content = self._parser_txt_based(file, target)
+  File "/root/ServerTest/integration_pipline/PDB/PDBparser/ParserBase.py", line 65, in _parser_txt_based
+    for field, content in self._parser_line(line, target).items():
+  File "/root/ServerTest/integration_pipline/PDB/PDBparser/ParserBase.py", line 99, in _parser_line
+    value = datatype(line[start[0]-1:end[0]].strip())
+ValueError: invalid literal for int() with base 10: '1BHB'
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+tri_norm: face with normal vector of lenght 0
+tri_norm: face with normal vector of lenght 0
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!
+Preprocessing finished!
+Domain form finished!
+Domain PDB file form finished!
+HDF5 file form finished!

@@ -1,0 +1,514 @@
+Name,Target,Prediction
+1xo2_protein_56_100_negative,0.0357,0.8514141
+1xo2_protein_56_101_negative,0,0.8547591
+1xo2_protein_56_102_negative,0.0747,0.9207821
+1xo2_protein_56_103_negative,0.0557,0.94013816
+1xo2_protein_56_104_negative,0,0.90260255
+1xo2_protein_56_105_negative,0.0698,0.9342262
+1xo2_protein_56_106_negative,0.0357,0.9924784
+1xo2_protein_56_107_negative,0.1429,0.91081256
+1xo2_protein_56_108_negative,0.0716,0.97219384
+1xo2_protein_56_109_negative,0.0813,0.89586854
+1xo2_protein_56_10_negative ,0.0841,0.91117114
+1xo2_protein_56_110_negative,0.0626,0.9063341
+1xo2_protein_56_112_negative,0.0682,0.8456592
+1xo2_protein_56_113_negative,0.0739,0.85276145
+1xo2_protein_56_114_negative,0.0901,0.93857384
+1xo2_protein_56_115_negative,0,0.92501223
+1xo2_protein_56_116_negative,0.0862,0.8907419
+1xo2_protein_56_117_negative,0.1042,0.90013075
+1xo2_protein_56_118_negative,0.0932,0.8482825
+1xo2_protein_56_119_negative,0.0722,0.8849604
+1xo2_protein_56_11_negative ,0,0.9321137
+1xo2_protein_56_120_negative,0.0325,0.90240264
+1xo2_protein_56_121_negative,0.095,0.92624146
+1xo2_protein_56_122_negative,0.1786,0.8666104
+1xo2_protein_56_123_negative,0.0749,0.89947534
+1xo2_protein_56_124_negative,0,0.8608016
+1xo2_protein_56_125_negative,0,0.90018487
+1xo2_protein_56_126_negative,0,0.8829295
+1xo2_protein_56_127_negative,0.375,0.95464873
+1xo2_protein_56_128_negative,0.0769,0.78708774
+1xo2_protein_56_129_negative,0.1004,0.81005496
+1xo2_protein_56_12_negative ,0,0.91724193
+1xo2_protein_56_130_negative,0.0712,0.93825805
+1xo2_protein_56_131_negative,0.625,0.9631624
+1xo2_protein_56_132_negative,0.8929,1.0284601
+1xo2_protein_56_133_negative,0.0796,0.9613566
+1xo2_protein_56_134_negative,0.25,0.85568905
+1xo2_protein_56_135_negative,0.0872,0.92357266
+1xo2_protein_56_136_negative,0.0948,0.9477075
+1xo2_protein_56_137_negative,0.25,0.85883355
+1xo2_protein_56_138_negative,0.1964,0.8758168
+1xo2_protein_56_139_negative,0.6786,0.9832742
+1xo2_protein_56_13_negative ,0.0357,0.8914549
+1xo2_protein_56_140_negative,0.0851,0.9560194
+1xo2_protein_56_141_negative,0.0879,0.90361786
+1xo2_protein_56_142_negative,0.0393,0.89633447
+1xo2_protein_56_143_negative,0.0665,0.9196137
+1xo2_protein_56_144_negative,0.0814,0.9188538
+1xo2_protein_56_146_negative,0.0794,0.9145374
+1xo2_protein_56_147_negative,0.0809,0.8571316
+1xo2_protein_56_148_negative,0.0393,0.96667796
+1xo2_protein_56_149_negative,0.0847,0.9160743
+1xo2_protein_56_14_negative ,0,0.88721097
+1xo2_protein_56_150_negative,0.0945,1.0042316
+1xo2_protein_56_151_negative,0.4821,0.9555291
+1xo2_protein_56_152_negative,0.0865,0.8096258
+1xo2_protein_56_153_negative,0.0893,0.8971329
+1xo2_protein_56_154_negative,0.0494,0.87840843
+1xo2_protein_56_155_negative,0.0958,0.9895056
+1xo2_protein_56_156_negative,0.0854,0.9780293
+1xo2_protein_56_157_negative,0.0741,0.90638715
+1xo2_protein_56_158_negative,0,0.899333
+1xo2_protein_56_159_negative,0.0752,0.9361416
+1xo2_protein_56_15_negative ,0.4643,0.9307766
+1xo2_protein_56_160_negative,0,0.90729743
+1xo2_protein_56_161_negative,0.0947,0.9823426
+1xo2_protein_56_162_negative,0.0752,0.8195065
+1xo2_protein_56_163_negative,0,0.8615405
+1xo2_protein_56_164_negative,0.101,0.9377932
+1xo2_protein_56_165_negative,0.066,0.9468498
+1xo2_protein_56_166_negative,0.2143,0.8222366
+1xo2_protein_56_167_negative,0.0901,1.011824
+1xo2_protein_56_168_negative,0.625,1.0015078
+1xo2_protein_56_169_negative,0.5179,0.9851174
+1xo2_protein_56_16_negative ,0.1786,0.89167506
+1xo2_protein_56_170_negative,0.25,0.9619776
+1xo2_protein_56_171_negative,0.7857,1.0139245
+1xo2_protein_56_172_negative,0.083,0.936533
+1xo2_protein_56_173_negative,0.0616,0.805427
+1xo2_protein_56_174_negative,0.5,0.94758314
+1xo2_protein_56_175_negative,0.0839,0.9131856
+1xo2_protein_56_176_negative,0,0.9324478
+1xo2_protein_56_177_negative,0.0803,0.93962926
+1xo2_protein_56_178_negative,0.0843,0.94698894
+1xo2_protein_56_179_negative,0.0944,0.98856664
+1xo2_protein_56_17_negative ,0,0.8888505
+1xo2_protein_56_180_negative,0.0814,0.9081623
+1xo2_protein_56_181_negative,0.2143,0.91581553
+1xo2_protein_56_182_negative,0.5,0.98606515
+1xo2_protein_56_183_negative,0.0822,0.7988151
+1xo2_protein_56_184_negative,0.0971,0.9098974
+1xo2_protein_56_185_negative,0.0686,0.9328843
+1xo2_protein_56_186_negative,0,0.8362491
+1xo2_protein_56_187_negative,0.0971,0.94575125
+1xo2_protein_56_188_negative,0.0833,1.0360091
+1xo2_protein_56_189_negative,0.5179,1.002059
+1xo2_protein_56_18_negative ,0,0.8463762
+1xo2_protein_56_190_negative,0.0535,0.9500119
+1xo2_protein_56_191_negative,0.0601,0.93098086
+1xo2_protein_56_192_negative,0.0817,0.9183882
+1xo2_protein_56_193_negative,0,0.90675884
+1xo2_protein_56_195_negative,0.4821,0.98880213
+1xo2_protein_56_196_negative,0.0388,0.90061986
+1xo2_protein_56_197_negative,0.0849,0.99117184
+1xo2_protein_56_198_negative,0.0807,0.9584407
+1xo2_protein_56_199_negative,0.0758,0.9046419
+1xo2_protein_56_19_negative ,0.0325,0.89105546
+1xo2_protein_56_1_negative  ,,0.8995458
+1xo2_protein_56_200_negative,0.053,0.90955305
+1xo2_protein_56_201_negative,0.0968,0.901312
+1xo2_protein_56_202_negative,0.7321,1.0244956
+1xo2_protein_56_203_negative,0,0.81817126
+1xo2_protein_56_204_negative,0.0827,0.89925236
+1xo2_protein_56_206_negative,0.0833,0.93126357
+1xo2_protein_56_207_negative,0.0875,0.9206935
+1xo2_protein_56_208_negative,0.0773,0.99613607
+1xo2_protein_56_209_negative,0.0994,0.88962144
+1xo2_protein_56_20_negative ,0.0678,0.9063678
+1xo2_protein_56_210_negative,0.0179,0.97428507
+1xo2_protein_56_211_negative,0.0361,0.9506775
+1xo2_protein_56_212_negative,0.5893,1.0094733
+1xo2_protein_56_213_negative,0.0868,0.9351596
+1xo2_protein_56_214_negative,0,0.8835319
+1xo2_protein_56_215_negative,0.0659,0.91724145
+1xo2_protein_56_216_negative,0.0741,0.899017
+1xo2_protein_56_217_negative,0,0.9169315
+1xo2_protein_56_218_negative,0.0732,0.99914604
+1xo2_protein_56_219_negative,0,0.888151
+1xo2_protein_56_21_negative ,0.0708,0.83988744
+1xo2_protein_56_220_negative,0.0524,0.98541045
+1xo2_protein_56_221_negative,0.125,0.88764644
+1xo2_protein_56_222_negative,0,0.88301265
+1xo2_protein_56_223_negative,0,0.8752099
+1xo2_protein_56_224_negative,0.0825,0.88596416
+1xo2_protein_56_225_negative,0.0878,1.0177085
+1xo2_protein_56_226_negative,0.102,0.9171882
+1xo2_protein_56_227_negative,0.0704,0.937699
+1xo2_protein_56_228_negative,0.1964,0.8988558
+1xo2_protein_56_229_negative,0.0863,0.8747958
+1xo2_protein_56_22_negative ,0.0179,0.9126267
+1xo2_protein_56_230_negative,0.0833,0.9128479
+1xo2_protein_56_231_negative,0.0554,0.90863997
+1xo2_protein_56_232_negative,0.0805,0.98141944
+1xo2_protein_56_233_negative,0.0957,0.9230156
+1xo2_protein_56_234_negative,0.0256,0.90282047
+1xo2_protein_56_235_negative,0.0948,0.9719079
+1xo2_protein_56_236_negative,0,0.9145427
+1xo2_protein_56_237_negative,0,0.91044897
+1xo2_protein_56_238_negative,0.0796,0.9662106
+1xo2_protein_56_239_negative,0.7679,1.0139216
+1xo2_protein_56_23_negative ,0.0743,0.90317225
+1xo2_protein_56_240_negative,0,0.87644887
+1xo2_protein_56_241_negative,0.0862,0.93973255
+1xo2_protein_56_242_negative,0.0762,0.8881235
+1xo2_protein_56_243_negative,0.0179,0.87760025
+1xo2_protein_56_244_negative,0.0644,0.8921375
+1xo2_protein_56_245_negative,0.0535,0.9319373
+1xo2_protein_56_246_negative,0.052,0.9356643
+1xo2_protein_56_247_negative,0.0616,0.8866616
+1xo2_protein_56_248_negative,0.0543,0.89586824
+1xo2_protein_56_249_negative,0.0835,0.9260403
+1xo2_protein_56_24_negative ,0.0316,0.9305232
+1xo2_protein_56_250_negative,0.0911,0.79908293
+1xo2_protein_56_251_negative,0.0841,0.8220428
+1xo2_protein_56_252_negative,0.0536,0.86693305
+1xo2_protein_56_253_negative,0.0481,0.8805875
+1xo2_protein_56_254_negative,0.0905,0.89693844
+1xo2_protein_56_255_negative,0.3929,0.9239868
+1xo2_protein_56_256_negative,0.0917,0.91828156
+1xo2_protein_56_257_negative,0.0961,0.9372026
+1xo2_protein_56_258_negative,0.0804,0.93540126
+1xo2_protein_56_259_negative,0.0946,0.9649159
+1xo2_protein_56_25_negative ,0.0833,0.8878188
+1xo2_protein_56_260_negative,0.0714,0.8908126
+1xo2_protein_56_261_negative,0.0781,0.9644804
+1xo2_protein_56_262_negative,0,0.88162225
+1xo2_protein_56_263_negative,0.0728,0.8323229
+1xo2_protein_56_264_negative,0.0179,0.95882934
+1xo2_protein_56_265_negative,0.4821,0.9941613
+1xo2_protein_56_266_negative,0.0957,0.94099563
+1xo2_protein_56_267_negative,0.4286,0.9214591
+1xo2_protein_56_268_negative,0.0179,0.8723827
+1xo2_protein_56_269_negative,0.7321,1.0096998
+1xo2_protein_56_26_negative ,0.0357,0.92352664
+1xo2_protein_56_270_negative,0.0346,0.8948592
+1xo2_protein_56_271_negative,0.0852,0.95524454
+1xo2_protein_56_272_negative,0,0.8998081
+1xo2_protein_56_273_negative,0.06,0.964083
+1xo2_protein_56_274_negative,0.6964,1.0051867
+1xo2_protein_56_275_negative,0.09,0.87720394
+1xo2_protein_56_276_negative,0.0641,0.96143156
+1xo2_protein_56_277_negative,0,0.90672714
+1xo2_protein_56_278_negative,0.0818,0.87160623
+1xo2_protein_56_279_negative,0.0497,0.8838397
+1xo2_protein_56_27_negative ,0.0357,0.8909785
+1xo2_protein_56_280_negative,0.0357,0.8985991
+1xo2_protein_56_281_negative,0.0666,0.8922501
+1xo2_protein_56_282_negative,0.0774,1.0167342
+1xo2_protein_56_283_negative,0.5714,1.0017844
+1xo2_protein_56_284_negative,0.1964,0.92524046
+1xo2_protein_56_285_negative,0.1071,0.97482216
+1xo2_protein_56_286_negative,0.7321,0.99628305
+1xo2_protein_56_287_negative,0.0939,0.8980982
+1xo2_protein_56_288_negative,0.0544,0.8123359
+1xo2_protein_56_289_negative,0.081,0.88107795
+1xo2_protein_56_28_negative ,0.0623,0.9458744
+1xo2_protein_56_290_negative,0.0932,0.9309885
+1xo2_protein_56_291_negative,0.0841,0.8689655
+1xo2_protein_56_292_negative,0.0838,0.87522256
+1xo2_protein_56_293_negative,0.0644,0.93028027
+1xo2_protein_56_294_negative,0.083,0.8755097
+1xo2_protein_56_295_negative,0.0965,0.8879689
+1xo2_protein_56_296_negative,0,0.8728356
+1xo2_protein_56_297_negative,0.0744,1.0318218
+1xo2_protein_56_298_negative,0.0912,0.9335287
+1xo2_protein_56_299_negative,0.0179,0.9274063
+1xo2_protein_56_29_negative ,0.1002,0.95530885
+1xo2_protein_56_2_negative  ,0.0804,0.9459206
+1xo2_protein_56_300_negative,0.0818,0.889899
+1xo2_protein_56_301_negative,0.0698,0.8535718
+1xo2_protein_56_303_negative,0.3393,0.9495344
+1xo2_protein_56_304_negative,0.6607,0.9918462
+1xo2_protein_56_305_negative,0.3929,0.92632073
+1xo2_protein_56_306_negative,0.0789,0.9449062
+1xo2_protein_56_307_negative,0.083,0.93730676
+1xo2_protein_56_308_negative,0.0855,0.9632932
+1xo2_protein_56_309_negative,0.0713,0.86000985
+1xo2_protein_56_310_negative,0.0725,0.9792303
+1xo2_protein_56_311_negative,0.0347,0.95368737
+1xo2_protein_56_312_negative,0.0921,0.9209817
+1xo2_protein_56_314_negative,0.0931,0.9652181
+1xo2_protein_56_315_negative,0.5893,0.9947505
+1xo2_protein_56_316_negative,0.0727,0.9559361
+1xo2_protein_56_317_negative,0.0443,0.9735099
+1xo2_protein_56_319_negative,0.0669,0.9375949
+1xo2_protein_56_31_negative ,0.0802,0.91446334
+1xo2_protein_56_320_negative,0.8571,0.9973508
+1xo2_protein_56_321_negative,0.0959,0.9741156
+1xo2_protein_56_322_negative,0.0744,0.9050085
+1xo2_protein_56_323_negative,0.9107,1.0575163
+1xo2_protein_56_324_negative,0.0743,0.895421
+1xo2_protein_56_325_negative,0.0714,0.9239791
+1xo2_protein_56_326_negative,0,0.90452796
+1xo2_protein_56_327_negative,0.1007,0.90962553
+1xo2_protein_56_328_negative,0.7143,1.0021707
+1xo2_protein_56_329_negative,0.0783,0.9027254
+1xo2_protein_56_32_negative ,0.0796,0.88403535
+1xo2_protein_56_330_negative,0.1007,0.92441136
+1xo2_protein_56_331_negative,0.0884,0.94344085
+1xo2_protein_56_332_negative,0.0986,0.9632281
+1xo2_protein_56_333_negative,0.0393,0.92973226
+1xo2_protein_56_334_negative,0.0523,0.8548384
+1xo2_protein_56_335_negative,0,0.89708364
+1xo2_protein_56_336_negative,0.7321,1.0084187
+1xo2_protein_56_337_negative,0.2857,0.9005699
+1xo2_protein_56_338_negative,0.0984,0.89383656
+1xo2_protein_56_339_negative,0.8036,1.0492487
+1xo2_protein_56_33_negative ,0.0427,0.90265614
+1xo2_protein_56_340_negative,0.0538,0.93525344
+1xo2_protein_56_341_negative,0.0881,0.92543036
+1xo2_protein_56_342_negative,0.083,0.89262015
+1xo2_protein_56_343_negative,0.0759,0.9369016
+1xo2_protein_56_344_negative,0.1012,0.92075664
+1xo2_protein_56_345_negative,0.1006,0.9696929
+1xo2_protein_56_346_negative,0.0935,0.94514275
+1xo2_protein_56_347_negative,0.0433,0.93317056
+1xo2_protein_56_348_negative,0.4286,0.9265807
+1xo2_protein_56_349_negative,0.0551,0.94817734
+1xo2_protein_56_34_negative ,0.0789,0.94730765
+1xo2_protein_56_350_negative,0.0537,0.9457686
+1xo2_protein_56_351_negative,0.0845,0.9259064
+1xo2_protein_56_352_negative,0.0963,0.8552437
+1xo2_protein_56_353_negative,0.0977,0.9619957
+1xo2_protein_56_354_negative,0.061,0.84755164
+1xo2_protein_56_355_negative,0.0617,0.9764481
+1xo2_protein_56_356_negative,0.0717,0.92536974
+1xo2_protein_56_357_negative,0.2321,0.8982636
+1xo2_protein_56_358_negative,0.0197,0.9344183
+1xo2_protein_56_359_negative,0.1429,0.91466594
+1xo2_protein_56_35_negative ,0.1429,0.83032304
+1xo2_protein_56_360_negative,0.0918,0.92381966
+1xo2_protein_56_361_negative,0.0814,0.8895201
+1xo2_protein_56_362_negative,0.085,0.8878536
+1xo2_protein_56_363_negative,0.096,0.86944145
+1xo2_protein_56_364_negative,0.1031,0.98592705
+1xo2_protein_56_365_negative,0.0754,0.94740456
+1xo2_protein_56_366_negative,0.3036,0.8597353
+1xo2_protein_56_367_negative,0.0762,0.9510609
+1xo2_protein_56_368_negative,0.0179,0.89502406
+1xo2_protein_56_369_negative,0.0847,0.887541
+1xo2_protein_56_36_negative ,0.0988,0.97284603
+1xo2_protein_56_370_negative,0.8214,1.0105169
+1xo2_protein_56_371_negative,0.0179,0.82565594
+1xo2_protein_56_372_negative,0.0819,0.94268453
+1xo2_protein_56_373_negative,0,0.8780655
+1xo2_protein_56_374_negative,0.0811,0.90337765
+1xo2_protein_56_375_negative,0.0746,0.8865844
+1xo2_protein_56_376_negative,0.0354,0.9001368
+1xo2_protein_56_377_negative,0.0842,0.9292716
+1xo2_protein_56_378_negative,0.6964,0.9995222
+1xo2_protein_56_379_negative,0.0878,0.9583724
+1xo2_protein_56_37_negative ,0.7679,1.0076755
+1xo2_protein_56_380_negative,0.0825,0.8757011
+1xo2_protein_56_381_negative,0.0179,0.9216705
+1xo2_protein_56_382_negative,0,0.9315843
+1xo2_protein_56_384_negative,0.2679,0.9238779
+1xo2_protein_56_385_negative,0.0738,0.91762155
+1xo2_protein_56_386_negative,0.0179,0.9687855
+1xo2_protein_56_387_negative,0.0616,0.8868397
+1xo2_protein_56_388_negative,0.375,0.9939901
+1xo2_protein_56_389_negative,0.0705,0.88807446
+1xo2_protein_56_38_negative ,0.0884,0.8886882
+1xo2_protein_56_390_negative,0.0933,0.91744965
+1xo2_protein_56_391_negative,0.7143,1.0178618
+1xo2_protein_56_392_negative,0.0829,0.9760076
+1xo2_protein_56_393_negative,0.0524,0.9088953
+1xo2_protein_56_394_negative,0.0862,0.8323515
+1xo2_protein_56_395_negative,0,0.8822524
+1xo2_protein_56_396_negative,0.0914,0.8584555
+1xo2_protein_56_397_negative,0.1607,0.8253717
+1xo2_protein_56_398_negative,0.0179,0.9849105
+1xo2_protein_56_399_negative,0.5,0.98787117
+1xo2_protein_56_39_negative ,0.0357,0.8962428
+1xo2_protein_56_3_negative  ,0.1071,0.8835147
+1xo2_protein_56_400_negative,0.0809,0.89503545
+1xo2_protein_56_401_negative,0.0393,0.9458105
+1xo2_protein_56_402_negative,0,0.8282293
+1xo2_protein_56_403_negative,0.0179,0.9968048
+1xo2_protein_56_404_negative,0.0699,0.9675162
+1xo2_protein_56_405_negative,0.087,0.8831601
+1xo2_protein_56_406_negative,0,0.8273892
+1xo2_protein_56_407_negative,0.0873,0.9472415
+1xo2_protein_56_408_negative,0.0509,0.9043925
+1xo2_protein_56_409_negative,0.0991,0.9231168
+1xo2_protein_56_40_negative ,0.0822,0.8974394
+1xo2_protein_56_410_negative,0.0821,0.92661065
+1xo2_protein_56_411_negative,0.0786,0.86263376
+1xo2_protein_56_412_negative,0.0955,0.9146025
+1xo2_protein_56_413_negative,0.0861,0.99850947
+1xo2_protein_56_414_negative,0.25,0.890184
+1xo2_protein_56_416_negative,0.0443,0.9613127
+1xo2_protein_56_417_negative,0.0357,0.91766834
+1xo2_protein_56_418_negative,0.7679,0.98205936
+1xo2_protein_56_419_negative,0.625,0.98850185
+1xo2_protein_56_420_negative,0.0819,0.94999415
+1xo2_protein_56_421_negative,0.1786,0.8609547
+1xo2_protein_56_422_negative,0.0721,0.86564094
+1xo2_protein_56_423_negative,0.0971,0.9275478
+1xo2_protein_56_424_negative,0,0.799049
+1xo2_protein_56_425_negative,0.1006,0.9485614
+1xo2_protein_56_426_negative,0.0523,0.8660122
+1xo2_protein_56_427_negative,0.0357,0.82837725
+1xo2_protein_56_429_negative,0.085,0.94814277
+1xo2_protein_56_42_negative ,0.0714,0.7331347
+1xo2_protein_56_430_negative,0.0951,0.94232947
+1xo2_protein_56_431_negative,0.054,0.83436924
+1xo2_protein_56_432_negative,0.0722,0.91039443
+1xo2_protein_56_433_negative,0.1003,0.9032392
+1xo2_protein_56_434_negative,0.0968,0.96445364
+1xo2_protein_56_435_negative,0.0539,0.906534
+1xo2_protein_56_436_negative,0.1022,0.9382336
+1xo2_protein_56_437_negative,0.0702,0.98983014
+1xo2_protein_56_438_negative,0.0841,0.8771313
+1xo2_protein_56_439_negative,0.0482,0.9867791
+1xo2_protein_56_43_negative ,0.0723,0.9472829
+1xo2_protein_56_440_negative,0.0819,0.9477974
+1xo2_protein_56_441_negative,0.0799,0.9521645
+1xo2_protein_56_442_negative,0.1071,0.8992244
+1xo2_protein_56_443_negative,0.0968,0.93078923
+1xo2_protein_56_444_negative,0.0854,0.8874213
+1xo2_protein_56_445_negative,0.0971,0.92531145
+1xo2_protein_56_446_negative,0.0179,0.9407999
+1xo2_protein_56_447_negative,0,0.90423983
+1xo2_protein_56_448_negative,0.0854,0.89211684
+1xo2_protein_56_449_negative,0.08,0.90480626
+1xo2_protein_56_44_negative ,0.0724,0.9018415
+1xo2_protein_56_450_negative,0.0884,0.88469356
+1xo2_protein_56_451_negative,0.0792,0.9924962
+1xo2_protein_56_452_negative,0,0.94930565
+1xo2_protein_56_453_negative,0,0.8827396
+1xo2_protein_56_454_negative,0.0971,0.88011074
+1xo2_protein_56_455_negative,0.0811,0.9507833
+1xo2_protein_56_456_negative,0.1786,0.97520596
+1xo2_protein_56_457_negative,0.054,0.9143741
+1xo2_protein_56_458_negative,0.0741,0.9306367
+1xo2_protein_56_459_negative,0,0.9019841
+1xo2_protein_56_45_negative ,0.0988,0.94377893
+1xo2_protein_56_460_negative,0.0179,0.9226922
+1xo2_protein_56_461_negative,0.1071,0.95135427
+1xo2_protein_56_462_negative,0.2143,0.8768919
+1xo2_protein_56_463_negative,0.0862,0.9675922
+1xo2_protein_56_464_negative,0.0587,0.98983467
+1xo2_protein_56_465_negative,0.0793,0.98811
+1xo2_protein_56_466_negative,0.0759,0.8955255
+1xo2_protein_56_467_negative,0.0729,0.906967
+1xo2_protein_56_468_negative,0.0732,0.8834841
+1xo2_protein_56_469_negative,0.1607,0.86821234
+1xo2_protein_56_46_negative ,0.0431,0.8810334
+1xo2_protein_56_471_negative,0,0.94185233
+1xo2_protein_56_472_negative,0.0179,0.9652613
+1xo2_protein_56_473_negative,0.7857,1.0299535
+1xo2_protein_56_474_negative,0.0852,0.90853095
+1xo2_protein_56_475_negative,0.0851,0.88907635
+1xo2_protein_56_476_negative,0.0825,0.8669577
+1xo2_protein_56_477_negative,0.6607,0.96885294
+1xo2_protein_56_478_negative,0.0616,0.84604263
+1xo2_protein_56_479_negative,0.0818,0.91603714
+1xo2_protein_56_47_negative ,0.0973,0.97217673
+1xo2_protein_56_480_negative,0.0179,0.8710943
+1xo2_protein_56_481_negative,0.0536,0.9335327
+1xo2_protein_56_482_negative,0.0714,0.97535485
+1xo2_protein_56_483_negative,0.0863,0.85564107
+1xo2_protein_56_485_negative,0.082,0.95626247
+1xo2_protein_56_486_negative,0.0472,0.95464456
+1xo2_protein_56_487_negative,0.1786,0.896747
+1xo2_protein_56_488_negative,0,0.93029135
+1xo2_protein_56_489_negative,0.8036,1.0175599
+1xo2_protein_56_48_negative ,0.2321,0.97205466
+1xo2_protein_56_490_negative,0.0905,0.92530024
+1xo2_protein_56_492_negative,0.0777,0.90428483
+1xo2_protein_56_493_negative,0.7679,1.0141137
+1xo2_protein_56_494_negative,0.0388,0.8978406
+1xo2_protein_56_495_negative,0.6964,0.978354
+1xo2_protein_56_496_negative,0.5,0.9112258
+1xo2_protein_56_497_negative,0.6786,0.9877899
+1xo2_protein_56_498_negative,0.1429,0.95375514
+1xo2_protein_56_49_negative ,0.0362,0.8078365
+1xo2_protein_56_4_negative  ,0.0765,0.8947123
+1xo2_protein_56_500_negative,0.0739,0.9150877
+1xo2_protein_56_501_negative,0.5714,0.9898622
+1xo2_protein_56_502_negative,0.0179,0.9927808
+1xo2_protein_56_503_negative,0.0848,0.9625065
+1xo2_protein_56_504_negative,0.054,0.860226
+1xo2_protein_56_505_negative,0.0804,0.90726715
+1xo2_protein_56_506_negative,0.1004,0.9829274
+1xo2_protein_56_507_negative,0.0825,0.88133234
+1xo2_protein_56_508_negative,0.0714,0.93428946
+1xo2_protein_56_509_negative,0.0779,0.9800662
+1xo2_protein_56_50_negative ,0.3571,0.9004693
+1xo2_protein_56_510_negative,0.0963,0.9079567
+1xo2_protein_56_511_negative,0.7321,0.9889954
+1xo2_protein_56_512_negative,0.875,1.0407131
+1xo2_protein_56_513_negative,0.0752,0.92253566
+1xo2_protein_56_514_negative,0.0556,0.9252096
+1xo2_protein_56_515_negative,0,0.8133186
+1xo2_protein_56_516_negative,0,0.896964
+1xo2_protein_56_517_negative,0.0523,0.84367096
+1xo2_protein_56_518_negative,0.0864,0.9022022
+1xo2_protein_56_519_negative,0.0521,0.9412984
+1xo2_protein_56_51_negative ,0.0846,0.8330725
+1xo2_protein_56_520_negative,0.75,0.9985529
+1xo2_protein_56_521_negative,0.0536,0.80243206
+1xo2_protein_56_522_negative,0.8929,1.0512105
+1xo2_protein_56_523_negative,0.2321,0.8853768
+1xo2_protein_56_524_negative,0.0879,0.9964237
+1xo2_protein_56_525_negative,0,0.8446
+1xo2_protein_56_527_negative,0.0941,0.91424257
+1xo2_protein_56_528_negative,0.0128,0.99673694
+1xo2_protein_56_529_negative,0.0236,0.93122905
+1xo2_protein_56_52_negative ,0.0959,0.9023988
+1xo2_protein_56_530_negative,0.0947,0.94757944
+1xo2_protein_56_531_negative,0.0941,1.0111349
+1xo2_protein_56_532_negative,0.0756,0.8977115
+1xo2_protein_56_53_negative ,0.0357,0.93921316
+1xo2_protein_56_54_negative ,0.0262,0.91693395
+1xo2_protein_56_55_negative ,0.0914,0.96843725
+1xo2_protein_56_56_negative ,0.0976,0.9458285
+1xo2_protein_56_57_negative ,0.0684,1.0062602
+1xo2_protein_56_59_negative ,0.0978,0.9080487
+1xo2_protein_56_5_negative  ,0.0893,0.9063652
+1xo2_protein_56_60_negative ,0.0305,0.96040094
+1xo2_protein_56_61_negative ,0.0179,0.85291654
+1xo2_protein_56_62_negative ,0.1429,0.9951936
+1xo2_protein_56_63_negative ,0.0788,0.9899326
+1xo2_protein_56_64_negative ,0.0179,0.8840531
+1xo2_protein_56_65_negative ,0.2857,0.85474914
+1xo2_protein_56_66_negative ,0,0.80461645
+1xo2_protein_56_67_negative ,0.5179,1.0101584
+1xo2_protein_56_68_negative ,0,0.9172408
+1xo2_protein_56_69_negative ,0.0864,0.9115439
+1xo2_protein_56_6_negative  ,0.0397,0.9891117
+1xo2_protein_56_70_negative ,0.6429,1.027781
+1xo2_protein_56_71_negative ,0.125,0.78833044
+1xo2_protein_56_72_negative ,0.0829,0.91788065
+1xo2_protein_56_73_negative ,0.125,0.7911729
+1xo2_protein_56_74_negative ,0.8036,1.0131415
+1xo2_protein_56_75_negative ,0.0917,0.97714865
+1xo2_protein_56_76_negative ,0.0787,0.96595097
+1xo2_protein_56_77_negative ,0.0983,0.9162003
+1xo2_protein_56_78_negative ,0.0352,0.864608
+1xo2_protein_56_79_negative ,0.0872,0.9011758
+1xo2_protein_56_7_negative  ,0.083,0.92453897
+1xo2_protein_56_81_negative ,0,0.92244524
+1xo2_protein_56_82_negative ,0.1,0.9084707
+1xo2_protein_56_83_negative ,0.0947,0.89321274
+1xo2_protein_56_84_negative ,0.7321,0.9987299
+1xo2_protein_56_85_negative ,0.0415,0.8923067
+1xo2_protein_56_86_negative ,0,0.8709445
+1xo2_protein_56_87_negative ,0.0964,0.90828085
+1xo2_protein_56_88_negative ,0.75,0.9881655
+1xo2_protein_56_89_negative ,0.0357,0.87971175
+1xo2_protein_56_8_negative  ,0,0.8864564
+1xo2_protein_56_90_negative ,0.0179,0.9136994
+1xo2_protein_56_91_negative ,0.0893,0.7474955
+1xo2_protein_56_92_negative ,0.0714,0.8796432
+1xo2_protein_56_93_negative ,0.0655,0.8855282
+1xo2_protein_56_94_negative ,0.0354,0.9781186
+1xo2_protein_56_95_negative ,0.0996,0.9911931
+1xo2_protein_56_96_negative ,0.0933,0.86532426
+1xo2_protein_56_97_negative ,0.8214,1.0525901
+1xo2_protein_56_98_negative ,0.75,0.9967984
+1xo2_protein_56_99_negative ,0.8036,0.9851298
+1xo2_protein_56_9_negative  ,0.0644,0.9331164

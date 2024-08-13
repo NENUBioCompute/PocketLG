@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <targetDB name="SYSTEM">
+    <operator name="SERVER">
+      <ConfigFilePath>.\config.xml</ConfigFilePath>
+      <ServerName>59.73.198.168</ServerName>
+      <ServerDBName>Biodata</ServerDBName>
+      <Port>27017</Port>
+      <CollectionName>Biocollection</CollectionName>
+    </operator>
+  </targetDB>
+  <targetDB name="PDB">
+    <operator name="Storage">
+      <Port>27017</Port>
+      <failedremovepath>/home/gongjianting/failedremovepath</failedremovepath>
+      <ServerName>59.73.198.168</ServerName>
+      <ServerDBName>testyl1</ServerDBName>
+      <failedpath>/home/gongjianting/failedpath</failedpath>
+      <CollectionName>test</CollectionName>
+      <className>PDBStorage</className>
+      <modulePath>/home/RaidDisk/pdbfiles/pdbParser/gongDemo/PDBStorage.py</modulePath>
+      <mainFunction>run</mainFunction>
+    </operator>
+    <operator name="Download">
+      <nextStep>Parse</nextStep>
+      <URL>rsync.rcsb.org::ftp_data/structures/divided/pdb</URL>
+      <obsolete_file>/home/RaidDisk/pdbfiles/pdbParser/pdbupdate/obsoletefile.pic</obsolete_file>
+      <targetPath>/home/RaidDisk/pdbfiles/pdb</targetPath>
+      <className>PDBDownload</className>
+      <uPDBpath>/home/RaidDisk/pdbfiles/updb</uPDBpath>
+      <lastDownload>20/11/2018</lastDownload>
+      <modulePath>/home/RaidDisk/pdbfiles/pdbParser/gongDemo/PDBDownload.py</modulePath>
+      <obsoletelist>False</obsoletelist>
+      <updatelist>False</updatelist>
+      <interval>weekly</interval>
+      <mode>http</mode>
+      <mainFunction>run</mainFunction>
+      <update_file>/home/RaidDisk/pdbfiles/pdbParser/pdbupdate/updatefile.pic</update_file>
+    </operator>
+    <operator name="Parse">
+      <nextStep>Storage</nextStep>
+      <parsedpdb>/home/BiodataTest/test1pickle/</parsedpdb>
+      <className>PDBParser</className>
+      <obsolete_parser_pickle>/home/RaidDisk/pdbfiles/pdbParser/pdbpickleupdate/obsolete.pickle</obsolete_parser_pickle>
+      <modulePath>/home/RaidDisk/pdbfiles/pdbParser/gongDemo/PDBParser.py</modulePath>
+      <updatelist_parser_pickle>/home/RaidDisk/pdbfiles/pdbParser/pdbpickleupdate/update.pickle</updatelist_parser_pickle>
+      <obsolete>True</obsolete>
+      <updatelist>True</updatelist>
+      <lastParse>7/6/2016</lastParse>
+      <sourcePath>/home/RaidDisk/pdbfiles/pdbParser/gongDemo/</sourcePath>
+      <mainFunction>run</mainFunction>
+    </operator>
+  </targetDB>
+  <targetDB name="SWISSPROT">
+    <operator name="Storage">
+      <className>Storage</className>
+      <Port>27017</Port>
+      <modulePath>/home/liuzhe002/pdbAttempt/Demo/Storage.py</modulePath>
+      <ServerName>59.73.198.168</ServerName>
+      <ServerDBName>testBioData</ServerDBName>
+      <mainFunction>run</mainFunction>
+      <CollectionName>BioData</CollectionName>
+    </operator>
+    <operator name="Download">
+      <nextStep>Parse</nextStep>
+      <URL>ftp.expasy.org</URL>
+      <targetPath>/home/gongjianting/biodata/</targetPath>
+      <bufsize>1024</bufsize>
+      <className>UniProtDownload</className>
+      <lastDownload>06/12/2016</lastDownload>
+      <mainFunction>run</mainFunction>
+      <downloadname>uniprot_sprot</downloadname>
+      <fileformat>dat</fileformat>
+      <interval>weekly</interval>
+      <mode>ftp</mode>
+      <modulePath>/home/liuzhe002/pdbAttempt/Demo/UniProtDownload.py</modulePath>
+    </operator>
+    <operator name="Parse">
+      <className>UniProtParser</className>
+      <picklepath>/home/gongjianting/biodata/pickle/</picklepath>
+      <mainFunction>run</mainFunction>
+      <sourcePath>/home/gongjianting/biodata/</sourcePath>
+      <lastParse>7/6/2016</lastParse>
+      <modulePath>/home/liuzhe002/pdbAttempt/Demo/UniProtParser.py</modulePath>
+    </operator>
+  </targetDB>
+</config>

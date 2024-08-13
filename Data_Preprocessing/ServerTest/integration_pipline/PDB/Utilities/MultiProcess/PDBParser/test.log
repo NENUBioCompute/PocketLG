@@ -1,0 +1,3 @@
+140510298945344 MainThread Sun, 18 Nov 2018 16:09:39 INFO: PDB is downloading.
+140510298945344 MainThread Sun, 18 Nov 2018 16:09:39 INFO: <Command '/usr/bin/rsync -rlpt -v -z --delete --port=33444 -i --log-file=pdbrsync.log rsync.rcsb.org::ftp_data/structures/divided/pdb /home/BiodataTest/pdb'>: starting process
+140510298945344 MainThread Sun, 18 Nov 2018 16:09:39 INFO: <Command '/usr/bin/rsync -rlpt -v -z --delete --port=33444 -i --log-file=pdbrsync.log rsync.rcsb.org::ftp_data/structures/divided/pdb /home/BiodataTest/pdb', pid 22886>: process started

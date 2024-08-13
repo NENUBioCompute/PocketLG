@@ -1,0 +1,519 @@
+{
+    "HEADER" :
+	{
+		"classification" : [11,50],
+		"depDate" : [51,59],
+		"idCode" : [63,66]
+	},
+	"OBSLTE" :
+	{
+		"continuation" : [9,10],
+		"repDate" : [12,20],
+		"idCode" : [22,25],
+		"ridCode_1" : [32,35],
+		"ridCode_2" : [37,40],
+		"ridCode_3" : [42,45],
+		"ridCode_4" : [47,50],
+		"ridCode_5" : [52,55],
+		"ridCode_6" : [57,60],
+		"ridCode_7" : [62,65],
+		"ridCode_8" : [67,70],
+		"ridCode_9" : [72,75]
+	},
+	"TITLE" :
+	{
+		"continuation" : [9,10],
+		"title" : [11,80]
+	},
+	"SPLIT" :
+	{
+		"continuation" : [9,10],
+		"idCode_1" : [12,15],
+		"idCode_2" : [17,20],
+		"idCode_3" : [22,25],
+		"idCode_4" : [27,30],
+		"idCode_5" : [32,35],
+		"idCode_6" : [37,40],
+		"idCode_7" : [42,45],
+		"idCode_8" : [47,50],
+		"idCode_9" : [52,55],
+		"idCode_10" : [57,60],
+		"idCode_11" : [62,65],
+		"idCode_12" : [67,70],
+		"idCode_13" : [72,75],
+		"idCode_14" : [77,80]
+	},
+	"CAVEAT" :
+	{
+		"continuation" : [9,10],
+		"idCode" : [12,15],
+		"comment" : [20,79]
+	},
+	"COMPND" :
+	{
+		"continuation" : [8,10],
+		"compound" : [11,80]
+	},
+	"SOURCE" :
+	{
+		"continuation" : [8,10],
+		"srcName" : [11,79]
+	},
+	"KEYWDS" :
+	{
+		"continuation" : [9,10],
+		"keywds" : [11,79]
+	},
+	"EXPDTA" :
+	{
+		"continuation" : [9,10],
+		"technique" : [11,79]
+	},
+	"NUMMDL" :
+	{
+		"modelNumber" : [11,14]
+	},
+	"MDLTYP" :
+	{
+		"continuation" : [9,10],
+		"comment" : [11,80]
+	},
+	"AUTHOR" :
+	{
+		"continuation" : [9,10],
+		"authorList" : [11,79]
+	},
+	"REVDAT" :
+	{
+		"modNum" : [8,10],
+		"continuation" : [11,12],
+		"modDate" : [14,22],
+		"modId" : [24,27],
+		"modType" : [32],
+		"record_1" : [40,45],
+		"record_2" : [47,52],
+		"record_3" : [54,59],
+		"record_4" : [61,66]
+	},
+	"SPRSDE" :
+	{
+		"continuation" : [9,10],
+		"sprsdeDate" : [12,20],
+		"idCode" : [22,25],
+		"sIdCode_1" : [32,35],
+		"sIdCode_2" : [37,40],
+		"sIdCode_3" : [42,45],
+		"sIdCode_4" : [47,50],
+		"sIdCode_5" : [52,55],
+		"sIdCode_6" : [57,60],
+		"sIdCode_7" : [62,65],
+		"sIdCode_8" : [67,70],
+		"sIdCode_9" : [72,75]
+	},
+	"JRNL" :
+	{
+		"AUTH" : 
+		{
+			"1" : [10],
+			"AUTH" : [13,16],
+			"continuation" : [17,18],
+			"authorList" : [20,79]
+		},
+		"TITL" : 
+		{
+			"1" : [10],
+			"TITL" : [13,16],
+			"continuation" : [17,18],
+			"title" : [20,79]
+		},
+		"EDIT" : 
+		{
+			"1" : [10],
+			"TITL" : [13,16],
+			"continuation" : [17,18],
+			"title" : [20,79]
+		},
+		"REF_a" : 
+		{
+			"REF" : [13,16],
+			"TO BE PUBLISHED" : [20,34]
+		},
+		"REF_b" : 
+		{
+			"REF" : [13,16],
+			"continuation" : [17,18],
+			"pubName" : [20,47],
+			"V." : [50,51],
+			"volume" : [52,55],
+			"page" : [57,61],
+			"year" : [63,66]
+		},
+		"PUBL" : 
+		{
+			"PUBL" : [13,16],
+			"continuation" : [17,18],
+			"pub" : [20,70]
+		},
+		"REFN_a" : 
+		{
+			"REFN" : [13,16]
+		},
+		"REFN_b" : 
+		{
+			"REFN" : [13,16],
+			"ISSN or ESSN" : [36,39],
+			"issn" : [41,65]
+		},
+		"PMID" : 
+		{
+			"PMID" : [13,16],
+			"continuation" : [20,79]
+		},
+		"DOI" : 
+		{
+			"DOI" : [13,16],
+			"continuation" : [20,79]
+		}
+	},
+	"REMARK" : 
+	{
+		
+	},
+	"DBREF" :
+	{
+		"idCode" : [8,11],
+		"chainID" : [13],
+		"seqBegin" : [15,18],
+		"insertBegin" : [19],
+		"seqEnd" : [21,24],
+		"insertEnd" : [25],
+		"database" : [27,32],
+		"dbAccession" : [34,41],
+		"dbIdCode" : [43,54],
+		"dbseqBegin" : [56,60],
+		"idbnsBeg" : [61],
+		"dbseqEnd" : [63,67],
+		"dbinsEnd" : [68]		
+	},
+	"DBREF1" :
+	{
+		"idCode" : [8,11],
+		"chainID" : [13],
+		"seqBegin" : [15,18],
+		"insertBegin" : [19],
+		"seqEnd" : [21,24],
+		"insertEnd" : [25],
+		"database" : [27,32],
+		"dbIdCode" : [48,67]
+	},
+	"DBREF2" :
+	{
+		"idCode" : [8,11],
+		"chainID" : [13],
+		"dbAccession" : [19,40],
+		"seqBegin" : [46,55],
+		"seqEnd" : [58,67]
+	},
+	"SEQADV" :
+	{
+		"idCode" : [8,11],
+		"resName" : [13,15],
+		"chainID" : [17],
+		"seqNum" : [19,22],
+		"iCode" : [23],
+		"database" : [25,28],
+		"dbAccession" : [30,38],
+		"dbRes" : [40,42],
+		"dbSeq" : [44,48],
+		"conflict" : [50,70]
+	},
+	"SEQRES" :
+	{
+		"serNum" : [8,10],
+		"chainID" : [12],
+		"numRes" : [14,17],
+		"resName_1" : [20,22],
+		"resName_2" : [24,26],
+		"resName_3" : [28,30],
+		"resName_4" : [32,34],
+		"resName_5" : [36,38],
+		"resName_6" : [40,42],
+		"resName_7" : [44,46],
+		"resName_8" : [48,50],
+		"resName_9" : [52,54],
+		"resName_10" : [56,58],
+		"resName_11" : [60,62],
+		"resName_12" : [64,66],
+		"resName_13" : [68,70]
+	},
+	"MODRES" :
+	{
+		"idCode" : [8,11],
+		"resName" : [13,15],
+		"chainID" : [17],
+		"seqNum" : [19,22],
+		"iCode" : [23],
+		"stdRes" : [25,27],
+		"comment" : [30,70]
+	},
+	"HET" :
+	{
+		"hetID" : [8,10],
+		"ChainID" : [13],
+		"seqNum" : [14,17],
+		"iCode" : [18],
+		"numHetAtoms" : [21,25],
+		"text" : [31,70]
+	},
+	"HETNAM" :
+	{
+		"continuation" : [9,10],
+		"hetID" : [12,14],
+		"text" : [16,70]
+	},
+	"HETSYN" :
+	{
+		"continuation" : [9,10],
+		"hetID" : [12,14],
+		"hetSynonyms" : [16,70]
+	},
+	"FORMUL" :
+	{
+		"compNum" : [9,10],
+		"hetID" : [13,15],
+		"continuation" : [17,18],
+		"asterisk" : [19],
+		"text" : [20,70]
+	},
+	"HELIX" :
+	{
+		"serNum" : [8,10],
+		"helixID" : [12,14],
+		"initResName" : [16,18],
+		"initChainID" : [20],
+		"initSeqNum" : [22,25],
+		"initICode" : [26],
+		"endResName" : [28,30],
+		"endChainID" : [32],
+		"endSeqNum" : [34,37],
+		"endICode" : [38],
+		"helixClass" : [39,40],
+		"comment" : [41,70],
+		"length" : [72,76]
+	},
+	"SHEET" :
+	{
+		"strand" : [8,10],
+		"sheetID" : [12,14],
+		"numStrands" : [15,16],
+		"initResName" : [18,20],
+		"initChainID" : [22],
+		"initSeqNum" : [23,26],
+		"initICode" : [27],
+		"endResName" : [29,31],
+		"endChainID" : [33],
+		"endSeqNum" : [34,37],
+		"endICode" : [38],
+		"sense" : [39,40],
+		"curAtom" : [42,45],
+		"curResName" : [46,48],
+		"curChainId" : [50],
+		"curResSeq" : [51,54],
+		"curICode" : [55],
+		"prevAtom" : [57,60],
+		"prevResName" : [61,63],
+		"prevChainId" : [65],
+		"prevResSeq" : [66,69],
+		"prevICode" : [70]
+	},
+	"SSBOND" :
+	{
+		"serNum" : [8,10],
+		"CYS_1" : [12,14],
+		"chainID1" : [16],
+		"seqNum1" : [18,21],
+		"icode1" : [22],
+		"CYS_2" : [26,28],
+		"chainID2" : [30],
+		"seqNum2" : [32,35],
+		"icode2" : [36],
+		"sym1" : [60,65],
+		"sym2" : [67,72],
+		"Length" : [74,78]
+	},
+	"LINK" :
+	{
+		"name1" : [13,16],
+		"altLoc1" : [17],
+		"resName1" : [18,20],
+		"chainID1" : [22],
+		"resSeq1" : [23,26],
+		"iCode1" : [27],
+		"name2" : [43,46],
+		"altLoc2" : [47],
+		"resName2" : [48,50],
+		"chainID2" : [52],
+		"resSeq2" : [53,56],
+		"iCode2" : [57],
+		"sym1" : [60,65],
+		"sym2" : [67,72],
+		"Length" : [74,78]
+	},
+	"CISPEP" :
+	{
+		"serNum" : [8,10],
+		"pep1" : [12,14],
+		"chainID1" : [16],
+		"seqNum1" : [18,21],
+		"icode1" : [22],
+		"pep2" : [26,28],
+		"chainID2" : [30],
+		"seqNum2" : [32,35],
+		"icode2" : [36],
+		"modNum" : [44,46],
+		"measure" : [54,59]
+	},
+	"SITE" :
+	{
+		"seqNum" : [8,10],
+		"siteID" : [12,14],
+		"numRes" : [16,17],
+		"resName1" : [19,21],
+		"chainID1" : [23],
+		"seq1" : [24,27],
+		"iCode1" : [28],
+		"resName2" : [30,32],
+		"chainID2" : [34],
+		"seq2" : [35,38],
+		"iCode2" : [39],
+		"resName3" : [41,43],
+		"chainID3" : [45],
+		"seq3" : [46,49],
+		"iCode3" : [50],
+		"resName4" : [52,54],
+		"chainID4" : [56],
+		"seq4" : [57,60],
+		"iCode4" : [61]
+	},
+	"CRYST1" :
+	{
+		"a" : [7,15],
+		"b" : [16,24],
+		"c" : [25,33],
+		"alpha" : [34,40],
+		"beta" : [41,47],
+		"gamma" : [48,54],
+		"sGroup" : [56,66],
+		"z" : [67,70]
+	},
+	"ORIGXn" :
+	{
+		"o[n][1]" : [11,20],
+		"o[n][2]" : [21,30],
+		"o[n][3]" : [31,40],
+		"t[n]" : [46,55]
+	},
+	"SCALEn" :
+	{
+		"s[n][1]" : [11,20],
+		"s[n][2]" : [21,30],
+		"s[n][3]" : [31,40],
+		"u[n]" : [46,55]
+	},
+	"MTRIXn" :
+	{
+		"serial" : [8,10],
+		"m[n][1]" : [11,20],
+		"m[n][2]" : [21,30],
+		"m[n][3]" : [31,40],
+		"v[n]" : [46,55],
+		"iGiven" : [60]
+	},
+	"MODEL" :
+	{
+		"serial" : [11,14]
+	},
+	"ATOM" :
+	{
+		"serial" : [7,11],
+		"name" : [13,16],
+		"altLoc" : [17],
+		"resName" : [18,20],
+		"chainID" : [22],
+		"resSeq" : [23,26],
+		"iCode" : [27],
+		"x" : [31,38],
+		"y" : [39,46],
+		"z" : [47,54],
+		"occupancy" : [55,60],
+		"tempFactor" : [61,66],
+		"element" : [77,78],
+		"charge" : [79,80]
+	},
+	"ANISOU" :
+	{
+		"serial" : [7,11],
+		"name" : [13,16],
+		"altLoc" : [17],
+		"resName" : [18,20],
+		"chainID" : [22],
+		"resSeq" : [23,26],
+		"iCode" : [27],
+		"u[0][0]" : [29,35],
+		"u[1][1]" : [36,42],
+		"u[2][2]" : [43,49],
+		"u[0][1]" : [50,56],
+		"u[0][2]" : [57,63],
+		"u[1][2]" : [64,70],
+		"element" : [77,78],
+		"charge" : [79,80]
+	},
+	"TER" :
+	{
+		"serial" : [7,11],
+		"resName" : [18,20],
+		"chainID" : [22],
+		"resSeq" : [23,26],
+		"iCode" : [27]
+	},
+	"HETATM" :
+	{
+		"serial" : [7,11],
+		"name" : [13,16],
+		"altLoc" : [17],
+		"resName" : [18,20],
+		"chainID" : [22],
+		"resSeq" : [23,26],
+		"iCode" : [27],
+		"x" : [31,38],
+		"y" : [39,46],
+		"z" : [47,54],
+		"occupancy" : [55,60],
+		"tempFactor" : [61,66],
+		"element" : [77,78],
+		"charge" : [79,80]
+	},
+	"CONECT" :
+	{
+		"serial_1" : [7,11],
+		"serial_2" : [12,16],
+		"serial_3" : [17,21],
+		"serial_4" : [22,26],
+		"serial_5" : [27,31]
+	},
+	"MASTER" :
+	{
+		"numRemark" : [11,15],
+		"0" : [16,20],
+		"numHet" : [21,25],
+		"numHelix" : [26,30],
+		"numSheet" : [31,35],
+		"numTurn" : [36,40],
+		"numSite" : [41,45],
+		"numXform" : [46,50],
+		"numCoord" : [51,55],
+		"numTer" : [56,60],
+		"numConect" : [61,65],
+		"numSeq" : [66,70]
+	}
+}
