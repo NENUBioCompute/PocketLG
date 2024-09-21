@@ -14,4 +14,28 @@ A protein pocket is a special region on the surface of a protein that is commonl
 We designed an end-to-end data preprocessor which implements the two main functions of data sampling and data enhancement, and we reduced the time complexity and space complexity of the protein sampling process. The feature samples required for model learning can be obtained directly and efficiently by simply inputting the protein PDB file and the corresponding pocket PDB file.
 <img src=".\figs\fig2.png" width="100%"/>
 
-For COACH420, HOLO4K and SC6K, the preprocessing procedure is the same as in [DeepPocket](https://github.com/devalab/DeepPocket). For PDBbind, the refined set of version 2020 is used in our experiments, in which proteins with more than 50% sequence identity to those in ScPDB are removed to avoid data leakage.
+The data preprocessor needs to put the protein pdb file and the corresponding pocket file into two separate folders, and then run the programme through the path (https://github.com/NENUBioCompute/PocketLG/Data_Preprocessing/main.py). The samples needed for the PocketLG model will be obtained in the end.
+
+## Train and test
+
+### Train
+
+The following path is the page for training the PocketLG model:
+
+```
+(https://github.com/NENUBioCompute/PocketLG/TrainandTest/train_esm4.py)
+```
+
+### Test
+
+To test PocketLG's Seccess rate on PDBBind, run the code in the following path:
+
+```
+(https://github.com/NENUBioCompute/PocketLG/TrainandTest/PocketIdentiftNet/seccess_rate.py)
+```
+
+To test PocketLG's DVO on PDBBind, run the code in the following path:
+
+```
+(https://github.com/NENUBioCompute/PocketLG/TrainandTest/PocketIdentiftNet/PreModel_test_pocket.py)
+```
